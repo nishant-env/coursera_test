@@ -1,0 +1,22 @@
+.navbar > .navbar-brand{
+    font-size: 1.6em;
+}
+
+.navbar > #menus a{
+    background-color: yellow;
+    border: 1px solid green;
+}
+
+.navbar > #menus a:hover{
+    background-color: aliceblue;
+}
+
+
+
+
+.container-fluid > .row section{
+    background-color: #999999;
+    border: 2px solid red;
+    width: 100%;
+    
+}
